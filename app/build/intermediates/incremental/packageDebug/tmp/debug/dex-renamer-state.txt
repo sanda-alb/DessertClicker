@@ -1,0 +1,4 @@
+#Thu Jul 01 18:06:39 MSK 2021
+base.0=/Users/albrecht/AndroidStudioProjects/android-kotlin-fundamentals-apps/DessertClickerLogs/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
